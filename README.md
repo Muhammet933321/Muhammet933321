@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,tailwind,php,java,react,nodejs,wordpress,figma,git,github,linux,vscode" />
+</p>
 
-<!--
-**Muhammet933321/Muhammet933321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=OykuCngz&show_icons=true&theme=transparent&cache_seconds=86400"
+    alt="GitHub Stats"
+    width="400"
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OykuCngz&layout=compact&theme=transparent&cache_seconds=86400"
+    alt="Top Languages"
+    width="400"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
